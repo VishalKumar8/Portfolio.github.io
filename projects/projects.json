@@ -42,7 +42,7 @@
   {
     "name": "My Car Booking Website",
     "desc": "A Simple Car Booking Website built using HTML,CSS. It Is a Static Website",
-    "image": "https://github.com/VishalKumar8/Portfolio.github.io/blob/da5b03a1ee03d4a1573ac47eedaa0b53a9f8ec01/assets/images/projects/mywebsite.png",
+    "image": "assets/images/projects/mywebsite.png",
     "category": "mern",
     "links": {
       "view": "https://vishalkumar8.github.io/MyOnlineCarBooking.github.io/",
